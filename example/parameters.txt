@@ -1,0 +1,2 @@
+fastafile	plugins/MaskFASTAFromBED/example/sample.fasta
+bedfile	plugins/MaskFASTAFromBED/example/B.bed
